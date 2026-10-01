@@ -1,0 +1,9 @@
+Performance Analysis
+
+The Random Forest classifier demonstrated excellent performance in detecting credential theft attempts based on behavioural features. The confusion matrix showed that all test samples were classified correctly, with 797 Low-Risk and 603 High-Risk instances accurately predicted and no misclassifications observed.
+
+The evaluation metrics, including Accuracy, Precision, Recall, and F1-score, all indicated outstanding predictive performance. This suggests that the proposed behavioural features, combined with the custom Behaviour Drift Index (BDI), Adaptive Behavioural Fingerprint Entropy (ABFE), and Dynamic Credential Risk Score (DCRS), significantly improved the model's ability to distinguish between legitimate and suspicious login behaviour.
+
+Feature importance analysis revealed that risk_score_heuristic, uses_special_char, dcrs_score, and login_attempts were among the most influential features. Furthermore, the SHAP analysis provided interpretable insights into the model by highlighting the contribution of each feature toward individual predictions, thereby improving transparency and explainability.
+
+Overall, the Random Forest model achieved robust and reliable performance, making it well suited for credential theft detection within the proposed framework.

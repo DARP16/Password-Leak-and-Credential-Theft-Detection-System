@@ -1,0 +1,17 @@
+Future Scope
+
+The proposed system can be enhanced in several ways:
+
+- Deploy the system on cloud platforms such as AWS, Microsoft Azure, or  Google Cloud.
+
+- Integrate with real-time authentication and identity management systems.
+
+- Support Multi-Factor Authentication (MFA) for improved security
+
+- Explore deep learning and ensemble approaches for behavioural anomaly detection.
+
+- Implement continuous behavioural learning to adapt to changing user patterns.
+
+- Integrate with SIEM platforms for enterprise security monitoring.
+
+- Develop mobile and web-based interfaces for broader accessibility.

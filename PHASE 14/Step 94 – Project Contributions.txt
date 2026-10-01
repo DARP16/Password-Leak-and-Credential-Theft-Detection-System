@@ -1,0 +1,14 @@
+Project Contributions
+
+The major contributions of this project are:
+
+- Developed a behavioural-based credential theft detection framework.
+- Created a unified dataset from multiple behavioural security features.
+- Proposed three security metrics:
+  Behaviour Drift Index (BDI)
+  Adaptive Behavioural Fingerprint Entropy (ABFE)
+  Dynamic Credential Risk Score (DCRS)
+- Implemented and evaluated a Random Forest machine learning model.
+- Applied SHAP explainability for model interpretation.
+- Developed a Streamlit-based dashboard for interactive prediction and   visualization.
+- Demonstrated high detection performance through comprehensive evaluation.

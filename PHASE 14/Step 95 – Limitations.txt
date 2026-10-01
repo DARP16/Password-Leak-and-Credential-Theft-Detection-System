@@ -1,0 +1,11 @@
+Limitations
+
+Although the proposed system achieved excellent performance, several limitations remain:
+
+- The model was evaluated using the prepared research dataset rather than a live authentication environment.
+
+- The system currently focuses on a Random Forest classifier and does not compare real-time performance with deep learning approaches.
+
+- The Streamlit application operates as a demonstration prototype and is not integrated with enterprise authentication services.
+
+- Continuous user behaviour learning and adaptive model updates are not implemented.
